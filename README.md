@@ -11,3 +11,7 @@ HTML5, CSS 3 e Bootstrap
 
 Toda a base do projeto foi feita com um WireFrame disponibilizado na plataforma Figma, em paralelo com as explicações do instrutor no curso.
 
+Com a base pronta, primeira página, e toda a estilização dessa página completa, a próxima etapa é criar uma nova aplicação utilizando essa base, mas em React.js com Vite!
+
+Estará disponóvel em outro repositório!
+Até lá!
